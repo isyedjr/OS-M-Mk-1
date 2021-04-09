@@ -23,7 +23,7 @@ View the Instructions Doc folder to download a PDF with instructions, and downlo
 ## Useful Files & Links
 Here's a fun youtube video that highlights our project's purpose: <in progress>
 
-For additional details, check out our final research paper in the final report folder <in progress>.
+For additional details, check out our final research paper at [link]
 
 ## Survey
 Please fill out this survey (Google Form) so we can improve out prototype:
