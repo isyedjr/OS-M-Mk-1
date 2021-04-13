@@ -1,7 +1,7 @@
 # viewer.py
 # Controls PiCam and video feedback
 # Imaad Syed, Aaban Syed
-# 12/24/2020
+# Reviewed on 4/13/2021
 
 
 from picamera import PiCamera
