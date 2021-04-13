@@ -21,7 +21,7 @@ In terms of software, at least Arduino IDE version 1.8.13 (download: https://www
 View the Instructions Doc folder to download a PDF with instructions, and download software from the software folder. This is open source, so it is meant to be shared and cloned! Feel free to fork this repository, improve and share!
 
 ## Useful Files & Links
-Here's a fun youtube video that highlights our project's purpose: <in progress>
+In the Documents folder, there are some documents that are useful for designing an optical microscope with an OPU lens. This is most useful for anyone trying to develop their own prototype, as this provides the focal length and other properties.
 
 For additional details, check out our final research paper at [link]
 
