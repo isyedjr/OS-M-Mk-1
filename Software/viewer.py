@@ -1,4 +1,4 @@
-# Viewer.py
+# viewer.py
 # Controls PiCam and video feedback
 # Imaad Syed, Aaban Syed
 # 12/24/2020
