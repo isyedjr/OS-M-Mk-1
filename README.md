@@ -1,8 +1,8 @@
 [In progress]
 
-# Open Source Microscope Mk 1
+# Open Source Microscope Mk 1 (OS-M Mk 1)
 
-Welcome! This is the GitHub repository for the Open Source Microscope Project. You'll find useful hardware plans and software in this repository.
+Welcome! This is the GitHub repository for OS-M Mk 1. You'll find useful hardware plans and software in this repository.
 
 ## Overview
 State-of-the-art optical microscopes cost thousands of dollars, posing challenges to third world hospitals and interested students. Additionally, there is a lot of electronic waste with the release of new consumer electronics, leading to rare earth metals leaching into the surrounding environment, dealing serious damage to plants, wildlife and eventually, us. The overall goal of this project was to make a cheap, open source microscope out of upcycled DVD drives (e-Waste) and hobby electronics, to address these issues.
@@ -18,9 +18,9 @@ In terms of hardware, an Arduino (Uno or other variants) and Raspberry Pi with a
 In terms of software, at least Arduino IDE version 1.8.13 (download: https://www.arduino.cc/en/software) and Python 2.7 (download: https://www.python.org/download/releases/2.7/) are needed for smooth operation. These are free to install.
 
 ## How to Use
-View the Instructions Doc in the Documents folder to download a PDF with instructions, and download software from the software folder. This is open source, so it is meant to be shared and cloned! Feel free to fork this repository, improve and share!
+View the Instructions Doc in the Documents folder and download software from the software folder. This is open source, so it is meant to be shared and cloned! Feel free to fork this repository, improve and share!
 
-## Useful Files & Links
+## Other Useful Files & Links
 In the Documents folder, there are some documents that are useful for designing an optical microscope with an OPU lens. This is most useful for anyone trying to develop their own prototype, as this provides the focal length and other properties.
 
 For additional details, check out our final research paper at [link]
