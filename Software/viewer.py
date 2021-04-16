@@ -1,7 +1,7 @@
 # viewer.py
 # Controls PiCam and video feedback
 # Imaad Syed, Aaban Syed
-# Reviewed on 4/13/2021
+# Reviewed on 4/16/2021
 
 
 from picamera import PiCamera
@@ -70,7 +70,7 @@ while(a): # main loop
       
   if keyboard.is_pressed('r'):# toggle inverted color scheme with i
       if(toggleVid == 0):
-        cam.start_recording('/home/pi/Desktop/view%s.h264' % j)
+        cam.start_recording('/home/pi/Desktop/video%s.h264' % j)
         toggleVid = 1
       else:
         cam.stop_recording()
