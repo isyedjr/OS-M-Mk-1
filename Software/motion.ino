@@ -48,6 +48,7 @@ void setup() {
     Serial.begin(9600);
 }
 
+// read inputs and move motors accordingly
 void loop() {
 
   if((abs(analogRead(A5) - 511) - 500) > 0){
@@ -80,6 +81,9 @@ void loop() {
  
 }
 
+// methods for moving stepper motors in different directions
+
+// STEPPER 1
 void moveLeft(int nSteps){
      digitalWrite(dirPin1,LOW);
      digitalWrite(enPin1,LOW);
@@ -93,6 +97,7 @@ void moveLeft(int nSteps){
      digitalWrite(enPin1,HIGH);   
 }
 
+// STEPPER 1
 void moveRight(int nSteps){
      digitalWrite(dirPin1,HIGH);
      digitalWrite(enPin1,LOW);
@@ -106,6 +111,7 @@ void moveRight(int nSteps){
      digitalWrite(enPin1,HIGH);   
 }
 
+// STEPPER 2
 void moveDown(int nSteps){
       digitalWrite(dirPin3,LOW);
      digitalWrite(enPin3,LOW);
@@ -119,6 +125,7 @@ void moveDown(int nSteps){
      digitalWrite(enPin1,HIGH);   
 }
 
+// STEPPER 2
 void moveUp(int nSteps){
      digitalWrite(dirPin3,HIGH);
      digitalWrite(enPin3,LOW);
@@ -132,6 +139,7 @@ void moveUp(int nSteps){
      digitalWrite(enPin3,HIGH);    
 }
 
+// STEPPER 3
 void moveAway(int nSteps){
      digitalWrite(dirPin2,LOW);
      digitalWrite(enPin2,LOW);
@@ -145,6 +153,7 @@ void moveAway(int nSteps){
      digitalWrite(enPin2,HIGH);   
 }
 
+// STEPPER 3
 void moveTowards(int nSteps){
      digitalWrite(dirPin2,HIGH);
      digitalWrite(enPin2,LOW);
