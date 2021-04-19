@@ -1,8 +1,7 @@
 /* motion.ino
  * Lafe Spietz, Imaad Syed
- * Reviewed on 4/13/2021
+ * Reviewed on 4/19/2021
  * This is the program that controls the motion stage. In order to run this, compile and upload to the Arduino, and then use the joystick and buttons.
- * Need to download from Pi
  *
 */
 
