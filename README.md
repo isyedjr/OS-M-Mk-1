@@ -27,6 +27,6 @@ For additional details, check out our final research paper at [link]
 
 ## Survey
 Please fill out this survey (Google Form) so we can improve out prototype:
-<in progress>
+https://forms.gle/aMwiphkvGQAUNnPp7
 
 Thank you!
