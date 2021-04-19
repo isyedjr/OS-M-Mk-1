@@ -1,4 +1,4 @@
-#[In progress]
+#In progress
 
 # Open Source Microscope Mk 1 (OS-M Mk 1)
 
