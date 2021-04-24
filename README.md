@@ -26,7 +26,7 @@ In the Documents folder, there are some documents that are useful for designing 
 For additional details, check out our final research paper at [link]
 
 ## Survey
-Please fill out this survey (Google Form) so we can improve out prototype:
+Please fill out this survey (Google Form) so we can improve our prototype:
 https://forms.gle/aMwiphkvGQAUNnPp7
 
 Thank you!
