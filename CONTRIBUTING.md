@@ -1,0 +1,2 @@
+# Contributing
+We encourage others to either fork this repository or duplicate the code and improve it in their own repository. We want to keep OS-M Mk 1 unmodified as a baseline template. Any feedback we recieve will go towards OS-M Mk 2, and this will be a separate repository. Any changes to this repository will be limited to bug fixes, and potential alternatives to the joystick & button control system. All other improvements will be considered for Mk 2.
