@@ -1,5 +1,3 @@
-# [In progress]
-
 # Open Source Microscope Mk 1 (OS-M Mk 1)
 
 Welcome! This is the GitHub repository for OS-M Mk 1. You'll find useful hardware plans and software in this repository.
