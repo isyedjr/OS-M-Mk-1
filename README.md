@@ -11,5 +11,3 @@ The Keyboard Control scripts are still being tested. As of now, only the joystic
 ## Useful Files & Links
 In the Documents folder, there are some documents that are useful for designing an optical microscope with an OPU lens. This is most useful for anyone trying to develop their own prototype, as this provides the focal length and other properties of the OPU lens, as well as mounting and imaging distances.
 
-
-This project started through the JHU APL Aspire internship program in 2020-21.
